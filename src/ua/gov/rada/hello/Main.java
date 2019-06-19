@@ -1,19 +1,12 @@
 package ua.gov.rada.hello;
 
+import com.macad.oop21.intro.Person;
+
 public class Main {
 
     public static void main(String[] args) {
 
-        System.out.println("Andriy");
-
-        System.out.println("Oleksii");
-        System.out.println("Oleksii");
-        System.out.println("Oleksii");
-        System.out.println("Oleksii");
-        System.out.println("Oleksii");
-        System.out.println("Oleksii");
-        System.out.println("Oleksii");
-        System.out.println("Oleksii");
+        Person person = new Person();
 
     }
 }
